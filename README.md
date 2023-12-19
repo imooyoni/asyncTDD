@@ -12,7 +12,7 @@ aws sagemaker를 활용하는 프로젝트의 대용량 데이터 송수신 과�
 implementation 'org.springframework.boot:spring-boot-starter-async'
 
 ```
-스레드 제어를 위한 Config 클래스 작성
+스레드 제어를 위한 Config 클래스 작성 ( @EnableAsync  )
 ```java
 @EnableAsync
 @Slf4j
@@ -39,7 +39,12 @@ public class AsyncConfig extends AsyncConfigurerSupport {
 
 }
 ```
-비동기 작업을 위한 Async 메서드 작성
+비동기 작업을 위한 Async 메서드 작성 ( @Async )
 ```java
-
+    @Service
+    public class AsyncService {
+        @Async
+        public void ayncTaskRecurssively(int cnt) throws InterruptedException {
+        };
+    }
 ```
