@@ -1,0 +1,143 @@
+INFO  23-12-12 16:05:19[restartedMain] [AsyncApplication:50] - Starting AsyncApplication using Java 17.0.9 with PID 26692 (C:\Users\User\Desktop\Develop File\Async\build\classes\java\main started by User in C:\Users\User\Desktop\Develop File\Async)
+INFO  23-12-12 16:05:20[restartedMain] [AsyncApplication:653] - No active profile set, falling back to 1 default profile: "default"
+INFO  23-12-12 16:05:20[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  23-12-12 16:05:20[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  23-12-12 16:05:20[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port 8080 (http)
+INFO  23-12-12 16:05:20[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+INFO  23-12-12 16:05:20[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  23-12-12 16:05:20[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+INFO  23-12-12 16:05:20[restartedMain] [[/]:173] - Initializing Spring embedded WebApplicationContext
+INFO  23-12-12 16:05:20[restartedMain] [ServletWebServerApplicationContext:296] - Root WebApplicationContext: initialization completed in 487 ms
+INFO  23-12-12 16:05:20[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+INFO  23-12-12 16:05:20[restartedMain] [TomcatWebServer:221] - Tomcat started on port 8080 (http) with context path ''
+INFO  23-12-12 16:05:20[restartedMain] [AsyncApplication:56] - Started AsyncApplication in 1.053 seconds (process running for 1.308)
+INFO  23-12-12 16:06:07[File Watcher] [LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211] - Restarting due to 4 class path changes (0 additions, 4 deletions, 0 modifications)
+INFO  23-12-12 16:06:07[Thread-1] [Http11NioProtocol:173] - Stopping ProtocolHandler ["http-nio-8080"]
+INFO  23-12-12 16:06:10[Test worker] [AsyncApplicationTests:50] - Starting AsyncApplicationTests using Java 17.0.9 with PID 12956 (started by User in C:\Users\User\Desktop\Develop File\Async)
+INFO  23-12-12 16:06:10[Test worker] [AsyncApplicationTests:653] - No active profile set, falling back to 1 default profile: "default"
+INFO  23-12-12 16:06:10[restartedMain] [AsyncApplication:50] - Starting AsyncApplication using Java 17.0.9 with PID 26692 (C:\Users\User\Desktop\Develop File\Async\build\classes\java\main started by User in C:\Users\User\Desktop\Develop File\Async)
+INFO  23-12-12 16:06:10[restartedMain] [AsyncApplication:653] - No active profile set, falling back to 1 default profile: "default"
+INFO  23-12-12 16:06:10[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port 8080 (http)
+INFO  23-12-12 16:06:10[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  23-12-12 16:06:10[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+INFO  23-12-12 16:06:10[restartedMain] [[/]:173] - Initializing Spring embedded WebApplicationContext
+INFO  23-12-12 16:06:10[restartedMain] [ServletWebServerApplicationContext:296] - Root WebApplicationContext: initialization completed in 79 ms
+INFO  23-12-12 16:06:10[restartedMain] [TomcatWebServer:221] - Tomcat started on port 8080 (http) with context path ''
+INFO  23-12-12 16:06:10[restartedMain] [AsyncApplication:56] - Started AsyncApplication in 0.146 seconds (process running for 51.205)
+INFO  23-12-12 16:06:10[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  23-12-12 16:06:10[Test worker] [AsyncApplicationTests:56] - Started AsyncApplicationTests in 0.867 seconds (process running for 1.471)
+INFO  23-12-12 16:06:11[Test worker] [AsyncConfig:26] - Async Executor Initialized: CorePoolSize=2, MaxPoolSize=10, QueueCapacity=10
+INFO  23-12-12 16:07:47[restartedMain] [AsyncApplication:50] - Starting AsyncApplication using Java 17.0.9 with PID 27668 (C:\Users\User\Desktop\Develop File\Async\build\classes\java\main started by User in C:\Users\User\Desktop\Develop File\Async)
+INFO  23-12-12 16:07:47[restartedMain] [AsyncApplication:653] - No active profile set, falling back to 1 default profile: "default"
+INFO  23-12-12 16:07:47[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  23-12-12 16:07:47[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  23-12-12 16:07:47[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port 8080 (http)
+INFO  23-12-12 16:07:47[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+INFO  23-12-12 16:07:47[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  23-12-12 16:07:47[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+INFO  23-12-12 16:07:47[restartedMain] [[/]:173] - Initializing Spring embedded WebApplicationContext
+INFO  23-12-12 16:07:47[restartedMain] [ServletWebServerApplicationContext:296] - Root WebApplicationContext: initialization completed in 403 ms
+INFO  23-12-12 16:07:47[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+INFO  23-12-12 16:07:47[restartedMain] [TomcatWebServer:221] - Tomcat started on port 8080 (http) with context path ''
+INFO  23-12-12 16:07:47[restartedMain] [AsyncApplication:56] - Started AsyncApplication in 0.828 seconds (process running for 1.075)
+INFO  23-12-12 16:08:53[restartedMain] [AsyncApplication:50] - Starting AsyncApplication using Java 17.0.9 with PID 29680 (C:\Users\User\Desktop\Develop File\Async\build\classes\java\main started by User in C:\Users\User\Desktop\Develop File\Async)
+INFO  23-12-12 16:08:53[restartedMain] [AsyncApplication:653] - No active profile set, falling back to 1 default profile: "default"
+INFO  23-12-12 16:08:53[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  23-12-12 16:08:53[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  23-12-12 16:08:53[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port 8080 (http)
+INFO  23-12-12 16:08:53[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+INFO  23-12-12 16:08:53[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  23-12-12 16:08:53[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+INFO  23-12-12 16:08:53[restartedMain] [[/]:173] - Initializing Spring embedded WebApplicationContext
+INFO  23-12-12 16:08:53[restartedMain] [ServletWebServerApplicationContext:296] - Root WebApplicationContext: initialization completed in 393 ms
+INFO  23-12-12 16:08:53[restartedMain] [AsyncConfig:37] - Application Configuration - Add your configuration details here
+INFO  23-12-12 16:08:54[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+INFO  23-12-12 16:08:54[restartedMain] [TomcatWebServer:221] - Tomcat started on port 8080 (http) with context path ''
+INFO  23-12-12 16:08:54[restartedMain] [AsyncApplication:56] - Started AsyncApplication in 0.791 seconds (process running for 1.04)
+INFO  23-12-12 16:09:15[restartedMain] [AsyncApplication:50] - Starting AsyncApplication using Java 17.0.9 with PID 34164 (C:\Users\User\Desktop\Develop File\Async\build\classes\java\main started by User in C:\Users\User\Desktop\Develop File\Async)
+INFO  23-12-12 16:09:15[restartedMain] [AsyncApplication:653] - No active profile set, falling back to 1 default profile: "default"
+INFO  23-12-12 16:09:15[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  23-12-12 16:09:15[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  23-12-12 16:09:15[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port 8080 (http)
+INFO  23-12-12 16:09:15[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+INFO  23-12-12 16:09:15[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  23-12-12 16:09:15[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+INFO  23-12-12 16:09:15[restartedMain] [[/]:173] - Initializing Spring embedded WebApplicationContext
+INFO  23-12-12 16:09:15[restartedMain] [ServletWebServerApplicationContext:296] - Root WebApplicationContext: initialization completed in 386 ms
+INFO  23-12-12 16:09:15[restartedMain] [AsyncConfig:28] - Async Executor Initialized: CorePoolSize=2, MaxPoolSize=10, QueueCapacity=10
+INFO  23-12-12 16:09:15[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+INFO  23-12-12 16:09:15[restartedMain] [TomcatWebServer:221] - Tomcat started on port 8080 (http) with context path ''
+INFO  23-12-12 16:09:15[restartedMain] [AsyncApplication:56] - Started AsyncApplication in 0.778 seconds (process running for 1.016)
+INFO  23-12-19 18:03:19[restartedMain] [AsyncApplication:50] - Starting AsyncApplication using Java 17 with PID 32040 (C:\intellij_workspace\Async\build\classes\java\main started by wooyeon in C:\intellij_workspace\Async)
+INFO  23-12-19 18:03:19[restartedMain] [AsyncApplication:653] - No active profile set, falling back to 1 default profile: "default"
+INFO  23-12-19 18:03:19[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  23-12-19 18:03:19[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  23-12-19 18:03:21[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port 8080 (http)
+INFO  23-12-19 18:03:21[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+INFO  23-12-19 18:03:21[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  23-12-19 18:03:21[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+INFO  23-12-19 18:03:21[restartedMain] [[/]:173] - Initializing Spring embedded WebApplicationContext
+INFO  23-12-19 18:03:21[restartedMain] [ServletWebServerApplicationContext:296] - Root WebApplicationContext: initialization completed in 1834 ms
+INFO  23-12-19 18:03:21[restartedMain] [AsyncConfig:32] - ####Async Executor Initialized: CorePoolSize=3, MaxPoolSize=5, QueueCapacity=2
+INFO  23-12-19 18:03:21[restartedMain] [OptionalLiveReloadServer:59] - LiveReload server is running on port 35729
+INFO  23-12-19 18:03:21[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+INFO  23-12-19 18:03:21[restartedMain] [TomcatWebServer:221] - Tomcat started on port 8080 (http) with context path ''
+INFO  23-12-19 18:03:21[restartedMain] [AsyncApplication:56] - Started AsyncApplication in 3.698 seconds (process running for 5.412)
+INFO  23-12-19 18:04:00[restartedMain] [AsyncApplication:50] - Starting AsyncApplication using Java 17 with PID 30268 (C:\intellij_workspace\Async\build\classes\java\main started by wooyeon in C:\intellij_workspace\Async)
+INFO  23-12-19 18:04:00[restartedMain] [AsyncApplication:653] - No active profile set, falling back to 1 default profile: "default"
+INFO  23-12-19 18:04:00[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  23-12-19 18:04:00[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  23-12-19 18:04:01[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port 8080 (http)
+INFO  23-12-19 18:04:01[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+INFO  23-12-19 18:04:01[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  23-12-19 18:04:01[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+INFO  23-12-19 18:04:01[restartedMain] [[/]:173] - Initializing Spring embedded WebApplicationContext
+INFO  23-12-19 18:04:01[restartedMain] [ServletWebServerApplicationContext:296] - Root WebApplicationContext: initialization completed in 1517 ms
+INFO  23-12-19 18:04:01[restartedMain] [AsyncConfig:32] - ####Async Executor Initialized: CorePoolSize=3, MaxPoolSize=5, QueueCapacity=2
+INFO  23-12-19 18:04:02[restartedMain] [OptionalLiveReloadServer:59] - LiveReload server is running on port 35729
+INFO  23-12-19 18:04:02[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+INFO  23-12-19 18:04:02[restartedMain] [TomcatWebServer:221] - Tomcat started on port 8080 (http) with context path ''
+INFO  23-12-19 18:04:02[restartedMain] [AsyncApplication:56] - Started AsyncApplication in 2.923 seconds (process running for 3.853)
+INFO  23-12-19 18:04:13[http-nio-8080-exec-1] [[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  23-12-19 18:04:13[http-nio-8080-exec-1] [DispatcherServlet:532] - Initializing Servlet 'dispatcherServlet'
+INFO  23-12-19 18:04:13[http-nio-8080-exec-1] [DispatcherServlet:554] - Completed initialization in 3 ms
+INFO  23-12-19 18:04:22[http-nio-8080-exec-3] [AsyncController:18] - 비동기 작업이 시작되었습니다.
+INFO  23-12-19 18:07:42[restartedMain] [AsyncApplication:50] - Starting AsyncApplication using Java 17 with PID 26864 (C:\intellij_workspace\Async\build\classes\java\main started by wooyeon in C:\intellij_workspace\Async)
+INFO  23-12-19 18:07:42[restartedMain] [AsyncApplication:653] - No active profile set, falling back to 1 default profile: "default"
+INFO  23-12-19 18:07:42[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  23-12-19 18:07:42[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  23-12-19 18:07:43[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port 8080 (http)
+INFO  23-12-19 18:07:43[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+INFO  23-12-19 18:07:43[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  23-12-19 18:07:43[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+INFO  23-12-19 18:07:43[restartedMain] [[/]:173] - Initializing Spring embedded WebApplicationContext
+INFO  23-12-19 18:07:43[restartedMain] [ServletWebServerApplicationContext:296] - Root WebApplicationContext: initialization completed in 1604 ms
+INFO  23-12-19 18:07:43[restartedMain] [AsyncConfig:32] - ####Async Executor Initialized: CorePoolSize=3, MaxPoolSize=5, QueueCapacity=2
+INFO  23-12-19 18:07:44[restartedMain] [OptionalLiveReloadServer:59] - LiveReload server is running on port 35729
+INFO  23-12-19 18:07:44[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+INFO  23-12-19 18:07:44[restartedMain] [TomcatWebServer:221] - Tomcat started on port 8080 (http) with context path ''
+INFO  23-12-19 18:07:44[restartedMain] [AsyncApplication:56] - Started AsyncApplication in 2.956 seconds (process running for 3.975)
+INFO  23-12-19 18:13:48[http-nio-8080-exec-1] [[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  23-12-19 18:13:48[http-nio-8080-exec-1] [DispatcherServlet:532] - Initializing Servlet 'dispatcherServlet'
+INFO  23-12-19 18:13:48[http-nio-8080-exec-1] [DispatcherServlet:554] - Completed initialization in 1 ms
+INFO  23-12-19 18:13:48[http-nio-8080-exec-1] [AsyncController:18] - 비동기 작업이 시작되었습니다.
+INFO  23-12-19 18:14:37[restartedMain] [AsyncApplication:50] - Starting AsyncApplication using Java 17 with PID 15908 (C:\intellij_workspace\Async\build\classes\java\main started by wooyeon in C:\intellij_workspace\Async)
+INFO  23-12-19 18:14:37[restartedMain] [AsyncApplication:653] - No active profile set, falling back to 1 default profile: "default"
+INFO  23-12-19 18:14:38[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  23-12-19 18:14:38[restartedMain] [DevToolsPropertyDefaultsPostProcessor:252] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  23-12-19 18:14:39[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port 8080 (http)
+INFO  23-12-19 18:14:39[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+INFO  23-12-19 18:14:39[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  23-12-19 18:14:39[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+INFO  23-12-19 18:14:39[restartedMain] [[/]:173] - Initializing Spring embedded WebApplicationContext
+INFO  23-12-19 18:14:39[restartedMain] [ServletWebServerApplicationContext:296] - Root WebApplicationContext: initialization completed in 1380 ms
+INFO  23-12-19 18:14:39[restartedMain] [AsyncConfig:32] - ####Async Executor Initialized: CorePoolSize=3, MaxPoolSize=5, QueueCapacity=2
+INFO  23-12-19 18:14:39[restartedMain] [OptionalLiveReloadServer:59] - LiveReload server is running on port 35729
+INFO  23-12-19 18:14:39[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+INFO  23-12-19 18:14:39[restartedMain] [TomcatWebServer:221] - Tomcat started on port 8080 (http) with context path ''
+INFO  23-12-19 18:14:39[restartedMain] [AsyncApplication:56] - Started AsyncApplication in 2.926 seconds (process running for 3.861)
+INFO  23-12-19 18:14:48[http-nio-8080-exec-2] [[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  23-12-19 18:14:48[http-nio-8080-exec-2] [DispatcherServlet:532] - Initializing Servlet 'dispatcherServlet'
+INFO  23-12-19 18:14:48[http-nio-8080-exec-2] [DispatcherServlet:554] - Completed initialization in 1 ms
+INFO  23-12-19 18:14:48[http-nio-8080-exec-2] [AsyncController:18] - 비동기 작업이 시작되었습니다.
+INFO  23-12-19 18:14:48[http-nio-8080-exec-2] [AsyncConfig:32] - ####Async Executor Initialized: CorePoolSize=3, MaxPoolSize=5, QueueCapacity=2
